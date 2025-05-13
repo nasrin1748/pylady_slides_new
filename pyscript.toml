@@ -1,0 +1,7 @@
+name = "TALKS new Copy"
+[[fetch]]
+files = [ "pyreveal.py", "slides.md",]
+
+[[fetch]]
+files = [ "antigravity.py", "pycon_colombia.py",]
+
