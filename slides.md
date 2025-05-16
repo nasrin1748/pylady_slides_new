@@ -132,13 +132,10 @@ Streamlit verses Pyscript
 ---
 <h2><span style="color: #fda703">Making use of Python packages on web.</span></h2>
 <ul>
-<li>Package installation using javascript supports all packages.</li>
-<a href="https://nasrin1748.github.io/package_installation/" target="_blank">link</a>
+<li>Pyscript supports all packages.</li>
 <li>Package installation can be automated.</li>
 <a href="https://nasrin1748.github.io/PAckage_installationa/" target="_blank">link</a>
 </ul>
----
-<img src="pylady15.png">
 ---
 Package installation can be automated.
 <img src="pylady20.png">
@@ -208,6 +205,9 @@ Package installation can be automated.
 </li>
  <li class="fragment">
       There is no Save.
+</li>
+    <li class="fragment">
+      Doesn't support terminal related packages.
 </li>
 </ul>
 ---
