@@ -200,9 +200,6 @@ Package installation can be automated.
     <li class="fragment">
       No Memory usage restrictions for Uploads with pycharm.
     </li>
-   <li class="fragment">
-      Doesn't support all packages.
-</li>
  <li class="fragment">
       There is no Save.
 </li>
