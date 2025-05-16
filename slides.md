@@ -102,9 +102,6 @@ Things to explore
     <li class="fragment">
       flask supports single link web development.But Github supports index.html deployments and streamlite has its own way of coding.flask converted to streamlit worked.
     </li> 
-   <li class="fragment">
-      Should research on getting packages(main.js) to python via micropip and pyodide.
-    </li> 
  <li class="fragment">
       Canvas web development on hold it's best for gaming as of now.
     </li> 
@@ -123,7 +120,7 @@ Streamlit verses Pyscript
       Yes pyscript replaced django.  
     </li>
       <li class="fragment">
-      Pyscript replaced latest version to some extinct.
+      Pyscript replaced alpha version and latest version.
     </li>
 </ul>    
 ---
@@ -184,6 +181,9 @@ Package installation can be automated.
     </li>
       <li class="fragment">
       sqlite for database.
+    </li>
+      <li class="fragment">
+      supports all packages.
     </li>
  <li class="fragment">
       Friendly and Welcoming team.
