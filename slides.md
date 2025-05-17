@@ -102,6 +102,9 @@ Things to explore
     <li class="fragment">
       flask supports single link web development.But Github supports index.html deployments and streamlite has its own way of coding.flask converted to streamlit worked.
     </li> 
+    <li class="fragment">
+      A different cloud can act as server.
+    </li> 
  <li class="fragment">
       Canvas web development on hold it's best for gaming as of now.
     </li> 
@@ -175,9 +178,6 @@ Package installation can be automated.
     </li>
      <li class="fragment">
       Free Assistance.
-    </li>
-      <li class="fragment">
-      sqlite for database.
     </li>
       <li class="fragment">
       supports all packages.
