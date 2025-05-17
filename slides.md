@@ -100,7 +100,7 @@ Things to explore
 <a href="https://nasrin1748.github.io/pythonProject98/" target="_blank">link</a>
     </li>
     <li class="fragment">
-      flask supports single link web development.But Github supports index.html deployments and streamlite has its own way of coding.flask converted to streamlit worked.
+      flask supports single link web development.But Github supports index.html deployments and streamlit has its own way of coding.flask converted to streamlit worked.
     </li> 
     <li class="fragment">
       A different cloud can act as server.
