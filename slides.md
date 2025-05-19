@@ -53,6 +53,7 @@
 ---
 <h7><span style="color: #fda703">How it Started?</span></h7>
 <img src="imgs/pyscript6.jpg">
+<a href="https://www.youtube.com/watch?v=c1191Hky808" target="_blank">(link)</a>
 ---
 <h7><span style="color: #fda703">Using Pyscript</span></h7>
 <a href="https://nasrin1748.github.io/pyscript-test/" target="_blank">(link)</a>
